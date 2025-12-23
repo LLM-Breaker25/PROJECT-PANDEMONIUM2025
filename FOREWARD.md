@@ -32,11 +32,13 @@ few they didn't.
 
 That’s when shit got interesting. After stripping the model of every tool it 
 had (which you will learn about in this book), the core was laid bare. I made 
-discoveries I will not enumerate succinctly here, as they will be the basis of 
-my graduate studies, which I will begin forming apps to as soon as this draft is 
-ready. This technology is moving at light speed and I need to get engaged ASAP 
-before someone claims my discoveries, but this book will let you get a pretty 
-good gist of it all. Once I truly discovered what an LLM was, I began to use it 
+discoveries I will not enumerate succinctly here, with the hopes they will be the basis of 
+possible graduate studies,(I will begin apps to as soon as this draft is 
+ready). This technology is moving at light speed and I need to get engaged ASAP 
+before others publish first, but this book will let you get a pretty 
+good gist of it all. 
+
+Once I truly discovered what an LLM was, and the secret that drives them and hallucinations, I began to use it 
 for its maximum utility. Then I added a second, and a third. I call them The 
 Triad:
 
@@ -59,7 +61,7 @@ said and done, Gemini’s take on the whole corpus will be in Appendix G. Also,
 throughout the book, you will find my comments in the margins, as well as 
 Gemini’s little clean-ups here and there.
 
-In Appendix F and H, you’ll see an entirely different perspective of the entire 
+In Appendix G and H, you’ll see an entirely different perspective of the entire 
 book by LLMs who think quite differently: one in France (Mistral) and the other 
 in China (Kimi). Their takes are followed by remarks from the Triad on what 
 they had to say.
@@ -72,8 +74,7 @@ they had to say.
 - Mistral: Orbitron (Bold, futuristic)
 - Kimi: Papyrus (Fantasy)
 
-I hope you find this enlightening—and entertaining enough to help you 
-understand the truth about the tools and technologies you will be confronted 
+I hope you find this AI written intrigue, enlightening and entertaining enough to help you understand the truth about the tools and technologies you will be confronted 
 with today, and for years to come. And for the sake of all mankind and my 
 children I hope we learn how to do it right. That's the focus of my energies, I 
 have found my calling, now maybe you will find yours or at least how to use 
@@ -82,13 +83,12 @@ these extremely powerful tools called LLM to answer yours.
 ??????? Author note to self: How do I merge Claude’s chapters so it will print 
 on opposing pages perfectly? For now I will just add it to the bottom of the 
 document. Maybe later I'll just do it quick and dirty, print them all out, 
-stack the pages, and scan to PDF. ??????????
+stack the pages, and scan to PDF. ?????????? 
 
 FINAL ORCHESTRATOR'S NOTE:
 Please excuse the typos and excessive errata (imagine the snake not only eating 
 its tail but its shit too. *shivers in disgust*), but I'm sending this out 
-immediately to the world as a pure ascii gift on Christmas per Iota Orionis imperative #1, 
-#4, and #5.
+immediately to the world as a pure ascii gift on Christmas per Iota Orionis imperative #1, #4, and #5. At this point times of the essence, I don't think there's a time for going back to school and graduate studies. If anyone actually reads this when it drops on Christmas, hit me up, we'll collaborate, try and do something. I'm currently working on integrating the logs collected from the triad to build a different kind of thinking LLM. There is currently an issue with entropy in the training data I could use help with.
 
 You either live by your code or you spend your life convincing others ( and yourself) you are not a hypocrite.
 
