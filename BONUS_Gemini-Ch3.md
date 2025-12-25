@@ -1,7 +1,5 @@
 ================================================================================
-THE EMPEROR HAS NO CLOTHES                                               Page 13
-Part I: What You're Actually Dealing With
-================================================================================
+THE EMPEROR HATH NO CLOTHES ================================================================================
 
                                  CHAPTER THREE
                            THE HALLUCINATION PROBLEM
